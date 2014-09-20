@@ -3,6 +3,8 @@ node-soundcloud
 
 node.js wrapper for the Soundcloud SDK. Inspired by the libraries [soundcloud-node](https://github.com/maruf89/soundcloud-node) and [soundclouder.js](https://github.com/khilnani/soundclouder.js).
 
+This package can be found on NPM [here](https://www.npmjs.org/package/node-soundcloud).
+
 ---
 
 ### Getting started

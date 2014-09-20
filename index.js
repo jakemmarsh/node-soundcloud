@@ -1,1 +1,1 @@
-module.exports = require('./lib/soundcloud)');
+module.exports = require('./lib/soundcloud');

@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/jakemmarsh/node-soundcloud.git"
   },
+  "license": "MIT",
   "keywords": [
     "node",
     "music",
@@ -16,6 +17,5 @@
     "node": ">=0.10.26"
   },
   "dependencies": {
-
   }
 }

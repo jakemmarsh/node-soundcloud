@@ -1,6 +1,6 @@
 {
   "name": "node-soundcloud",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Jake Marsh <jakemmarsh@gmail.com>",
   "description": "A node.js wrapper for the Soundcloud SDK.",
   "repository": {

@@ -32,7 +32,7 @@ SC.init({
 var initOAuth = function(req, res) {
   var url = SC.getConnectUrl();
 
-  res.writeHead(301, Location: url);
+  res.writeHead(301, { location: url });
   res.end();
 };
 

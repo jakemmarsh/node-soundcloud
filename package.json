@@ -17,5 +17,6 @@
     "node": ">=0.10.26"
   },
   "dependencies": {
+    "follow-redirects": "^0.2.0"
   }
 }

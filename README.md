@@ -85,7 +85,7 @@ SC.init({
 Once authorized (or if you're accessing unprotected endpoints), you may now make calls to the SoundCloud API [documented here](https://developers.soundcloud.com/docs/api/reference). An example could be as follows:
 
 ```javascript
-SC.get('/tracks/164497989', function(err, track) {
+SC.get('/tracks/276882056', function(err, track) {
   if ( err ) {
     throw err;
   } else {
